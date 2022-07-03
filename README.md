@@ -33,3 +33,20 @@ Preprocessed datasets are in the `data` directory.
 | Indoor Condition    | time x locations x sensor     | 19735 x 9 x 2  | 241201  | every 10 minutes    | [Link](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction)         |
 | Server Room         | time x air conditioning x server power x locations  | 4157 x 3 x 3 x 34  | 1009426 | 1 second    | [Link](https://zenodo.org/record/3610078#.XlNpAigzaM8)                                 |
 
+## Reference
+
+If you use this code, please cite the following paper.
+
+```
+@article{DBLP:journals/ml/AhnJK22,
+  author    = {Dawon Ahn and
+               Jun{-}Gi Jang and
+               U Kang},
+  title     = {Time-aware tensor decomposition for sparse tensors},
+  journal   = {Mach. Learn.},
+  volume    = {111},
+  number    = {4},
+  pages     = {1409--1430},
+  year      = {2022}
+}
+```
