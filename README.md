@@ -38,7 +38,7 @@ Preprocessed datasets are in the `data` directory.
 If you use this code, please cite the following paper.
 
 ```
-@article{DBLP:journals/ml/AhnJK22,
+@article{AhnJK22,
   author    = {Dawon Ahn and
                Jun{-}Gi Jang and
                U Kang},
