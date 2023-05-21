@@ -1,6 +1,6 @@
 # TATD
 
-This is a PyTorch and TensorLy implementation of **Time-Aware Tensor Decomposition for Sparse Tensors**.<br>
+This is a PyTorch and TensorLy implementation of **Time-Aware Tensor Decomposition for Sparse Tensors** (Machine Learning Journal).<br>
 
 
 ## Prerequisites
